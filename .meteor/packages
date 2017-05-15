@@ -33,3 +33,5 @@ accounts-password
 accounts-ui
 email
 jss:jstree
+accounts-google
+accounts-facebook
